@@ -1,0 +1,4 @@
+# Exclude all executable files and object files
+*.o
+*.out
+*.exe
